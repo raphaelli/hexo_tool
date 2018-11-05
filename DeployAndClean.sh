@@ -1,0 +1,1 @@
+hexo g -d && echo "G-D Finished！" && hexo clean && rm ./.deploy_git -rf && echo "Clean Finished！" && echo "press any key to quit!" && read
